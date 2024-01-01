@@ -1,4 +1,4 @@
-![MasterHead](https://i.gifer.com/origin/d7/d72fdb011630fad8d1472c4af0292364.gif](https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif
+![MasterHead](https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif
 )
 <h1 align="center">Hi 👋, I'm Prajwal Venugopal</h1>
 <h3 align="center">A passionate software developer from India</h3>
