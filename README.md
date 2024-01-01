@@ -1,4 +1,4 @@
-![MasterHead](https://th.bing.com/th/id/OIP.T_PMZpbUjRm_lDcRCEQJxQHaHa?rs=1&pid=ImgDetMain
+![MasterHead](https://thumbs.dreamstime.com/b/software-developer-typographic-header-idea-programming-coding-system-development-digital-technology-developing-company-205455856.jpg
 )
 <h1 align="center">Hi 👋, I'm Prajwal Venugopal</h1>
 <h3 align="center">A passionate software developer from India</h3>
